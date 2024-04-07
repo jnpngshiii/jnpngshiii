@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,git,linux,md,nvim,python,pytorch,rust,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,git,linux,lua,md,neovim,python,pytorch,rust,vim)](https://skillicons.dev)
