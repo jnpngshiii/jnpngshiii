@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,git,linux,lua,md,neovim,python,pytorch,rust,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,linux)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,lua,md,python,rust,ts)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vim,neovim)](https://skillicons.dev)
